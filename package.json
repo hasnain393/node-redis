@@ -1,0 +1,19 @@
+{
+  "name": "node-redis",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Hasnain Ahmed Shaikh",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "autocannon": "^8.0.0",
+    "express": "^5.0.1",
+    "mongoose": "^8.12.1",
+    "redis": "^4.7.0"
+  }
+}
